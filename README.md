@@ -6,6 +6,7 @@
 
 | Project | What it is |
 |---|---|
+| 🔎 [**semsearch**](https://github.com/Kanishktyson/semsearch) ⭐ flagship | Semantic search engine from first principles — pluggable embedders (hashing baseline vs MiniLM), exact cosine index, FastAPI, hand-labeled eval: **recall@5 0.49 → 0.92** over the baseline. 39 tests, 97% coverage, CI with docker smoke test |
 | 🔐 [**Secure-Voting-System**](https://github.com/Kanishktyson/Secure-Voting-System) | End-to-end verifiable voting — Python CLI + web service, hash-chained audit trail, checkpoint/verify, CI with a 90% coverage gate |
 | 🎙 [**voiceiq**](https://github.com/Kanishktyson/voiceiq) | AI call analysis — Whisper transcription with Hindi→English pipeline, 13 scoring metrics, BERT sentiment, FastAPI backend, PDF reports |
 | 🧱 [**ml-foundations**](https://github.com/Kanishktyson/ml-foundations) | Python → pandas → SQL → scikit-learn, one week at a time, with honest NOTES.md in every folder |
